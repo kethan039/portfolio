@@ -435,6 +435,9 @@ form .send-btn:hover{
     .navbar.open{
         right: 0;
     }
+    form input{
+        width: 60%;
+    }
     form .send-btn{
         width: 50%;
     }
@@ -442,4 +445,9 @@ form .send-btn:hover{
         font-size: 40px;
         margin: 10px;
     }
+    .button a{
+        width: 40%;
+        
+    }
+
 }
